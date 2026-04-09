@@ -156,7 +156,7 @@ class Reporter:
                         "driver": {
                             "name": "Sentinel",
                             "version": "1.0.0",
-                            "informationUri": "https://github.com/YOUR_USERNAME/sentinel",
+                            "informationUri": "https://github.com/TechwithSaad/sentinel",
                             "rules": [
                                 {
                                     "id": r.rule_id,
